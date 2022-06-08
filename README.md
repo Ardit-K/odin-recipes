@@ -1,0 +1,2 @@
+Project Author: Ardit Koti
+Description: This project is a recipe site made for The Odin Project. It contains an index.html homepage, and three recipe pages linked to. This project demonstrates skills with html linking, use of ordered and unordered lists, as well as image use and formatting.
